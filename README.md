@@ -9,7 +9,7 @@
 
 <p align="center">
 <!--   <img src="your_relative_path_here" width="350" title="hover text"> -->
-  <img src="https://i.pinimg.com/originals/c2/ec/8b/c2ec8b2fb1eb1f6c6628753f2fa53698.png" width="350" alt="accessibility text">
+  <img src="https://github.com/Gaurangkothiya/Railway_Reservation_System/blob/main/screenshots/1.jpg" width="350" alt="accessibility text">
 </p>
 
 
