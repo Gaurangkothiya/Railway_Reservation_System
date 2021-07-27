@@ -7,6 +7,8 @@ We have used Laravel (PHP framework) to develope a full LAMP stack (Apache, MySQ
 
 
 ### Functionality we provided
+    For User:-
+    
     Log In / Sign In with Google
     Book Tickets
     Cancel Tickets
@@ -14,7 +16,9 @@ We have used Laravel (PHP framework) to develope a full LAMP stack (Apache, MySQ
     Travel Details Form
     Train Route check out
     
+    
     For Admin:-
+    
     Add Train / Add station
     Remove Train / Remove station
     Show Train / Show station
